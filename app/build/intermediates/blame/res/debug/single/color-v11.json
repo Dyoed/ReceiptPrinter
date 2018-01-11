@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

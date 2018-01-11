@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="smcloudservices:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/56ac8b2fc6dc8434e286ff119f83e9d02ad0ed2d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/56ac8b2fc6dc8434e286ff119f83e9d02ad0ed2d/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

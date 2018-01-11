@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_combination_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_combination_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/list_allreceipts_print_setting_row.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/list_allreceipts_print_setting_row.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_bluetooth_setting.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_bluetooth_setting.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/list_device_status_row.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/list_device_status_row.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_printer_search.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_printer_search.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_scale_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_scale_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/dialog_setting.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/56ac8b2fc6dc8434e286ff119f83e9d02ad0ed2d/output/res/layout/dialog_setting.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_display_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_display_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_barcode_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_barcode_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_scale_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_scale_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_receipt.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_receipt.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_display.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_display.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_cash_drawer.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_cash_drawer.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_combination.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_combination.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_all_receipts_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_all_receipts_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_api.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_api.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_blackmark.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_blackmark.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_cash_drawer_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_cash_drawer_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/dialog_serial_number.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/dialog_serial_number.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_title.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_title.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_barcode_reader_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_barcode_reader_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_all_receipts_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_all_receipts_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_black_mark.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_black_mark.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_cash_drawer_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_cash_drawer_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_title.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_title.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_page_mode.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_page_mode.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_item_list.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_item_list.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_combination_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_combination_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_dummy.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_dummy.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/list_main_title_row.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/list_main_title_row.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_scale.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_scale.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_printer_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_printer_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/list_destination_device_row.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/list_destination_device_row.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_black_mark_paste.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_black_mark_paste.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_printer.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_printer.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_blackmark_paste.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_blackmark_paste.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/list_bcr_row.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/list_bcr_row.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_display_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_display_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/list_printer_info_row.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/list_printer_info_row.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/list_main_row.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/list_main_row.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_all_receipts.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_all_receipts.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_device_status.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_device_status.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/fragment_printer_ext.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/fragment_printer_ext.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/layout/activity_bluetooth_setting.xml",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/layout/activity_bluetooth_setting.xml"
+    }
+]

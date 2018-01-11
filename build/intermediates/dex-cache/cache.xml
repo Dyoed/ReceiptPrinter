@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c441a3339a37084b9d6a7576dd43137586f2bdcc">
+        <dex dex="/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e84e59b8299d6b635a5e719912082734f8e54e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/libs/StarIOPort3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6075fb2c5ec014b329f2de92455bda4158d4840a">
+        <dex dex="/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/transforms/dex/debug/folders/1000/2/StarIOPort3.1_709e39740d8ba6f45ff7d5fa93a1f63081809b1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/libs/starioextension.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a4bbbca3ac927960727a5b018addbd25139e0abd">
+        <dex dex="/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/transforms/dex/debug/folders/1000/2/starioextension_52c38b84d605d96100d93edf9cd62b501a29865e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_45114edea06b88dfc27a24e6a2b58ac1d6646bde/classes.dex" />
+    </item>
+
+</items>

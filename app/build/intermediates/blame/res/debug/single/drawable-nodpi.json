@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/coupon_image_russian.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/coupon_image_russian.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/display_image_3.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/display_image_3.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/star_logo_image.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/star_logo_image.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/sphere_image.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/sphere_image.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/coupon_image_simplified_chinese.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/coupon_image_simplified_chinese.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/display_image_2.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/display_image_2.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/coupon_image_traditional_chinese.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/coupon_image_traditional_chinese.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/coupon_image_german.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/coupon_image_german.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/coupon_image.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/coupon_image.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/coupon_image_spanish.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/coupon_image_spanish.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/coupon_image_japanese.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/coupon_image_japanese.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/display_image_1.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/display_image_1.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/display_image_4.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/display_image_4.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/coupon_image_french.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/coupon_image_french.png"
+    },
+    {
+        "merged": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/build/intermediates/res/merged/debug/drawable-nodpi/coupon_image_portuguese.png",
+        "source": "/Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/res/drawable-nodpi/coupon_image_portuguese.png"
+    }
+]

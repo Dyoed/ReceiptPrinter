@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:7:22-71
+application
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:9:5-42:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/joedsantiago/.android/build-cache/b69835f0d184a0b31fac6b6db7e2b2bec80eda99/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/joedsantiago/.android/build-cache/01e5634e4320045f0882eec4b7413ff3936ed2a6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/joedsantiago/.android/build-cache/55ec6142dc4d9b055482932f3445233eaa2e6b9c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/joedsantiago/.android/build-cache/7b3cfbc2883c76a027b80856b90059e31517a493/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/joedsantiago/.android/build-cache/2cc925edc0c7baed4b47d03641a3c29fdc87e836/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/joedsantiago/.android/build-cache/1bb13533bef10a5be6f74b39c938010d0b32e2ca/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/joedsantiago/.android/build-cache/c434b23a68116d4ec589479d88de88e8dad1a72e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/joedsantiago/.android/build-cache/b64bf467f7c42a7e3038bdbef4089485f5babf8b/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:11:9-42
+	android:theme
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.starmicronics.starprntsdk.TitleActivity
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:15:9-29:20
+	android:screenOrientation
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:20:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:18:13-48
+	android:configChanges
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:19:13-59
+	android:theme
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:17:13-46
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:16:13-42
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:22:13-127
+	android:resource
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:22:87-124
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:22:24-86
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:26:27-74
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:27:17-90
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:27:25-87
+activity#com.starmicronics.starprntsdk.MainActivity
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:31:9-34:52
+	android:screenOrientation
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:32:13-41
+activity#com.starmicronics.starprntsdk.CommonActivity
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:37:13-43
+activity#com.starmicronics.starprntsdk.ReceiptActivity
+ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:40:9-52
+	android:name
+		ADDED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml:40:19-50
+uses-sdk
+INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:smcloudservices:] /Users/joedsantiago/.android/build-cache/56ac8b2fc6dc8434e286ff119f83e9d02ad0ed2d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/joedsantiago/.android/build-cache/b69835f0d184a0b31fac6b6db7e2b2bec80eda99/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/joedsantiago/.android/build-cache/01e5634e4320045f0882eec4b7413ff3936ed2a6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/joedsantiago/.android/build-cache/55ec6142dc4d9b055482932f3445233eaa2e6b9c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/joedsantiago/.android/build-cache/7b3cfbc2883c76a027b80856b90059e31517a493/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/joedsantiago/.android/build-cache/2cc925edc0c7baed4b47d03641a3c29fdc87e836/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/joedsantiago/.android/build-cache/1bb13533bef10a5be6f74b39c938010d0b32e2ca/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/joedsantiago/.android/build-cache/c434b23a68116d4ec589479d88de88e8dad1a72e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/joedsantiago/.android/build-cache/b64bf467f7c42a7e3038bdbef4089485f5babf8b/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joedsantiago/Downloads/StarPRNT_Android_SDK_V5_4_1/Software/SDK/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/joedsantiago/.android/build-cache/b69835f0d184a0b31fac6b6db7e2b2bec80eda99/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/joedsantiago/.android/build-cache/01e5634e4320045f0882eec4b7413ff3936ed2a6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/joedsantiago/.android/build-cache/55ec6142dc4d9b055482932f3445233eaa2e6b9c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/joedsantiago/.android/build-cache/7b3cfbc2883c76a027b80856b90059e31517a493/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/joedsantiago/.android/build-cache/2cc925edc0c7baed4b47d03641a3c29fdc87e836/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/joedsantiago/.android/build-cache/1bb13533bef10a5be6f74b39c938010d0b32e2ca/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/joedsantiago/.android/build-cache/c434b23a68116d4ec589479d88de88e8dad1a72e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/joedsantiago/.android/build-cache/b64bf467f7c42a7e3038bdbef4089485f5babf8b/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/joedsantiago/.android/build-cache/8e6a06b51104b462b4e3335d039e7b765bd9fcff/output/AndroidManifest.xml:26:9-47
